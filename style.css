@@ -1,0 +1,146 @@
+ body {
+      background-color: #0A0C1B;
+      font-size: 15px;
+    }
+
+    #card-1{
+      
+      background: #1B1938;
+      border-radius: 10px 0px 0px 10px;
+      max-width: 100%;
+      height: auto;
+    }
+    
+    img {
+      background: url(image-header-desktop.jpg);
+      border-radius: 0px 10px 10px 0px;
+      object-fit: contain;
+      max-height: 100%;
+      max-width: 100%;
+      opacity: 0.6;
+    }
+
+    #card-2 {
+      background-size: cover;
+      background: #AA5CDB;
+      border-radius: 0px 10px 10px 0px;
+    }
+
+    h1 {
+      margin: 58px 68px 68px;
+      font-family: "Inter";
+      font-style: normal;
+      font-weight: bold;
+      font-size: 36px;
+      line-height: 44px;
+
+      color: #FFFFFF;
+    }
+
+    #h1-a {
+      font-family: "Inter";
+      font-style: normal;
+      font-weight: bold;
+      font-size: 36px;
+      line-height: 44px;
+
+      color: #AA5CDB;
+
+    }
+
+    #p {
+      margin: 39px 97px 185px 68px;
+      font-family: "Lexend Deca";
+      font-style: normal;
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 21px;
+
+      color: rgba(255, 255, 255, 0.75);
+
+    }
+
+    #p-2 {
+      margin-top: -120px;
+      margin-left: 68px;
+    }
+
+    #p-2a {
+      
+      font-family: Inter;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 30px;
+
+      color: #FFFFFF;
+
+    }
+
+    #p-2b {
+      font-family: Lexend Deca;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 16px;
+
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    #p-3 {
+      margin-top: -78px;
+      margin-left: 205px;
+    }
+
+    #p-3a {
+      
+      font-family: Inter;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 30px;
+
+      color: #FFFFFF;
+
+    }
+
+    #p-3b {
+      font-family: Lexend Deca;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 16px;
+
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    #p-4 {
+      margin-top: -78px;
+      margin-left: 342px;
+    }
+
+    #p-4a {
+      
+      font-family: Inter;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 30px;
+
+      color: #FFFFFF;
+
+    }
+
+    #p-4b {
+      font-family: Lexend Deca;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 16px;
+
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    .flex-box {
+      margin-top: 10%;
+    }
